@@ -8,3 +8,6 @@ This is just a modified ESX_Weashops with included munitions inside the menu.
 3. Enjoy
 
 Following Original ESX_Weashops License
+
+* screenshot *
+https://i.imgur.com/u2zABSP.jpg
