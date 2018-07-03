@@ -1,5 +1,5 @@
  INSERT INTO `items` (name, label, `limit`) VALUES
-  ('Caricatore di Munizioni','clip', 2)
+  ('clip','Caricatore di Munizioni', 2)
  ;
  
  INSERT INTO `shops` (name, item, `price`) VALUES
